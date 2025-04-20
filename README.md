@@ -1,27 +1,29 @@
-# 🪨📄✂️ Rock Paper Scissors
+# 🪨📄✂️ Rock Paper or Scissors
+
+A simple **Rock, Paper, Scissors** game made in Python to run in the terminal.
 
 Um jogo simples de **Pedra, Papel ou Tesoura** feito em Python para rodar no terminal.
 
 ---
 
-## 📖 Sobre o projeto
+## 📖 About / Sobre o Jogo
+
+This project is a classic implementation of the game **Rock, Paper or Scissors**. The player makes his choice, the computer randomly selects another one, and the result of the game is displayed on the terminal.
 
 Este projeto é uma implementação clássica do jogo **Pedra, Papel ou Tesoura**. O jogador faz sua escolha, o computador seleciona aleatoriamente outra, e o resultado da partida é exibido no terminal.
 
-Perfeito para quem está começando em Python e quer praticar lógica condicional e interação com o usuário.
-
 ---
 
-## 🚀 Tecnologias
+## 🚀 Technologies / Tecnologias
 
 - 🐍 Python 3
 - 🐍 PyCharm
 
 ---
 
-## 🎮 Como jogar
+## 🎮 How to Play / Como Jogar
 
-### 🔽 Clone o repositório:
+### 🔽 Clone the repository / Clone o repositório
 
 ```bash
 git clone https://github.com/victorhasse/Rock-Paper-or-Scissors.git
@@ -29,14 +31,18 @@ cd Rock-Paper-or-Scissors
 ```
 ---
 
-## ▶️ Execute o jogo:
+## ▶️ Run the Game / Execute o Jogo
 
 ```bash
 python3 main.py
 ```
 ---
 
-## 📌 Regras:
+## 📌 Rules / Regras
+
+Choose between: Rock, Paper or Scissors.
+The computer will choose randomly.
+The result will be displayed on the terminal.
 
 Escolha entre: Pedra, Papel ou Tesoura.
 O computador escolherá aleatoriamente.
@@ -44,7 +50,7 @@ O resultado será exibido no terminal.
 
 ---
 
-## 📂 Estrutura de Pastas:
+## 📂 Folder Structure / Estrutura de Pastas
 
 ```bash
 Rock-Paper-or-Scissors/
@@ -54,13 +60,15 @@ Rock-Paper-or-Scissors/
 ```
 ---
 
-## 📄 Licença
+## 📄 License / Licença
+
+Distributed under the MIT License.
 
 Distribuído sob a licença MIT.
 
 ---
 
-## 📫 Contato:
+## 📫 Contact / Contato
 
 <a href="https://linktr.ee/victorhasse" target="_blank">
 <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="codepen"/></a>
